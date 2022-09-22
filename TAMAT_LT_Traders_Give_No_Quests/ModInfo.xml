@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<ModInfo>
+		<Name value="Traders Have No Quests"/>
+		<Description value="Removes default quest items from trader dialog."/>
+		<Author value="TAMAT_LT"/>
+		<Version value="1.0"/>
+	</ModInfo>
+</xml>
