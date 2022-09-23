@@ -1,3 +1,0 @@
-<configs>
-	<remove xpath = "/quests/quest_list[@id = 'trader_quests']/quest"/>
-</configs>
